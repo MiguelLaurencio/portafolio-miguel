@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Miguel Laurencio | Desarrollador Front-End Junior</title>
+<meta name="description" content="Portafolio de Miguel Laurencio, desarrollador front-end junior con Angular, TypeScript y JavaScript. Santo Domingo, República Dominicana.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@500;700&family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="nav">
+  <div class="wrap nav-in">
+    <a href="#inicio" class="brand">ML</a>
+    <nav id="menu" aria-label="Principal">
+      <a href="#sobre-mi" data-i18n="nav_about">Sobre mí</a>
+      <a href="#habilidades" data-i18n="nav_skills">Habilidades</a>
+      <a href="#proyectos" data-i18n="nav_projects">Proyectos</a>
+      <a href="#experiencia" data-i18n="nav_exp">Experiencia</a>
+      <a href="#contacto" data-i18n="nav_contact">Contacto</a>
+    </nav>
+    <button id="lang" class="pill" type="button" aria-label="Switch to English">EN</button>
+    <button id="burger" class="burger" type="button" aria-label="Menú" aria-expanded="false" aria-controls="menu"><span></span><span></span></button>
+  </div>
+</header>
+
+<main>
+<section id="inicio" class="hero wrap">
+  <div class="hero-text">
+    <p class="status"><i></i><span data-i18n="status">Disponible para oportunidades remotas</span></p>
+    <h1>Miguel Laurencio</h1>
+    <p class="role" data-i18n="role">Desarrollador Front-End Junior</p>
+    <p class="lead" data-i18n="lead">Construyo interfaces web claras y responsivas con Angular, TypeScript y JavaScript. Vengo de la banca y el soporte técnico, así que pienso primero en el usuario y en que el dato sea correcto.</p>
+    <div class="actions">
+      <a class="btn primary" href="#proyectos" data-i18n="btn_projects">Ver proyectos</a>
+      <a class="btn" href="cv/MiguelCVl_2026.pdf" download data-i18n="btn_cv">Descargar CV</a>
+      <a class="btn" href="https://github.com/MiguelLaurencio" target="_blank" rel="noopener noreferrer">GitHub</a>
+      <a class="btn" href="https://linkedin.com/in/miguel1452" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+    </div>
+  </div>
+  <div class="photo">
+    <img src="images/sdad.jpg" alt="Foto de Miguel Laurencio" id="photo">
+    <span class="initials" id="initials" hidden>ML</span>
+  </div>
+</section>
+
+<section id="sobre-mi" class="wrap block">
+  <h2 data-i18n="about_title">Sobre mí</h2>
+  <div class="cols">
+    <p data-i18n="about_p1">Soy estudiante de término de Ingeniería en Sistemas. Desarrollo aplicaciones web con Angular, JavaScript, HTML y CSS, consumo APIs REST y trabajo con metodología Scrum.</p>
+    <p data-i18n="about_p2">Mi experiencia en Banco Popular Dominicano, validando expedientes y resolviendo incidencias de soporte bajo acuerdos de nivel de servicio, me dio atención al detalle y trato con usuarios reales. Busco un puesto de desarrollo front-end donde seguir creciendo en equipo.</p>
+  </div>
+</section>
+
+<section id="habilidades" class="wrap block">
+  <h2 data-i18n="skills_title">Habilidades</h2>
+  <div class="skills">
+    <div><h3 data-i18n="sk1">Front-end</h3><ul class="chips"><li>Angular</li><li>TypeScript</li><li>JavaScript</li><li>HTML5</li><li>CSS3</li><li>jQuery</li></ul></div>
+    <div><h3 data-i18n="sk2">Datos y APIs</h3><ul class="chips"><li>APIs REST</li><li>SQL</li><li data-i18n="sk_sql">SQL Server (en curso)</li></ul></div>
+    <div><h3 data-i18n="sk3">Calidad y flujo de trabajo</h3><ul class="chips"><li data-i18n="sk_test">Pruebas unitarias (Vitest)</li><li>Git y GitHub</li><li>Scrum</li></ul></div>
+  </div>
+  <p class="note" data-i18n="langs">Idiomas: español (nativo), inglés (intermedio, en mejora).</p>
+</section>
+
+<section id="proyectos" class="wrap block">
+  <h2 data-i18n="proj_title">Proyectos</h2>
+  <article class="proj">
+    <div>
+      <h3>Rick and Morty Explorer</h3>
+      <p data-i18n="p1">Explorador de personajes con búsqueda, filtros por estado y especie aplicados en la API, paginación y pruebas unitarias.</p>
+      <ul class="chips"><li>JavaScript</li><li>REST API</li><li>Vitest</li><li>Responsive</li></ul>
+    </div>
+    <div class="links">
+      <a class="btn primary" href="https://ricknadmorty.netlify.app" target="_blank" rel="noopener noreferrer" data-i18n="demo">Ver demo</a>
+      <a class="btn" href="https://github.com/MiguelLaurencio/RickandMorty" target="_blank" rel="noopener noreferrer" data-i18n="code">Ver código</a>
+    </div>
+  </article>
+  <article class="proj">
+    <div>
+      <h3 data-i18n="p2t">HelpDesk (prototipo)</h3>
+      <p data-i18n="p2">Sistema de tickets con roles de usuario y agente, SLA por prioridad, filtros y panel de métricas. Los datos viven en el navegador; la versión en Angular está en desarrollo. Cuentas de prueba: ana y carlos, contraseña demo.</p>
+      <ul class="chips"><li>JavaScript</li><li>HTML/CSS</li><li data-i18n="t_roles">Roles</li><li>SLA</li></ul>
+    </div>
+    <div class="links">
+      <a class="btn primary" href="https://helpdeskn.netlify.app" target="_blank" rel="noopener noreferrer" data-i18n="demo">Ver demo</a>
+      <a class="btn" href="https://github.com/MiguelLaurencio/helpdesk-tickets-demo" target="_blank" rel="noopener noreferrer" data-i18n="code">Ver código</a>
+    </div>
+  </article>
+  <article class="proj">
+    <div>
+      <h3 data-i18n="p3t">Plantilla para barberías y salones</h3>
+      <p data-i18n="p3">Página configurable con servicios, precios, horarios, ubicación y reservas que abren WhatsApp con el mensaje listo. Pensada para negocios pequeños dominicanos.</p>
+      <ul class="chips"><li>HTML/CSS</li><li>JavaScript</li><li>Responsive</li><li>WhatsApp</li></ul>
+    </div>
+    <div class="links">
+      <a class="btn primary" href="https://modelo-barberia-salon.netlify.app" target="_blank" rel="noopener noreferrer" data-i18n="demo">Ver demo</a>
+      <a class="btn" href="https://github.com/MiguelLaurencio/modelo-barberia-salon" target="_blank" rel="noopener noreferrer" data-i18n="code">Ver código</a>
+    </div>
+  </article>
+  <article class="proj">
+    <div>
+      <h3>Pokédex</h3>
+      <p data-i18n="p4">Consumo de la PokéAPI con Angular, gestión de rutas y componentes modulares.</p>
+      <ul class="chips"><li>Angular</li><li>REST API</li><li>HTML/CSS</li><li data-i18n="t_routing">Rutas</li></ul>
+    </div>
+    <div class="links">
+      <a class="btn primary" href="https://pokedex-api-sage.vercel.app/login" target="_blank" rel="noopener noreferrer" data-i18n="demo">Ver demo</a>
+      <a class="btn" href="https://github.com/MiguelLaurencio/pokedexApi" target="_blank" rel="noopener noreferrer" data-i18n="code">Ver código</a>
+    </div>
+  </article>
+  <article class="proj">
+    <div>
+      <h3 data-i18n="p5t">Tienda de ropa y accesorios</h3>
+      <p data-i18n="p5">Catálogo web responsivo para ver productos en detalle, con estructura semántica y CSS moderno.</p>
+      <ul class="chips"><li>REST API</li><li>HTML/CSS</li><li>JavaScript</li></ul>
+    </div>
+    <div class="links">
+      <a class="btn primary" href="https://tienda-de-ropa-one.vercel.app/" target="_blank" rel="noopener noreferrer" data-i18n="demo">Ver demo</a>
+      <a class="btn" href="https://github.com/MiguelLaurencio/Tienda-de-ropa" target="_blank" rel="noopener noreferrer" data-i18n="code">Ver código</a>
+    </div>
+  </article>
+</section>
+
+<section id="experiencia" class="wrap block">
+  <h2 data-i18n="exp_title">Experiencia y formación</h2>
+  <ol class="time">
+    <li><b>Banco Popular Dominicano</b><span data-i18n="e1">Analista II de Formalización. Validación y control de expedientes, y detección de inconsistencias en los datos.</span></li>
+    <li><b>Banco Popular Dominicano</b><span data-i18n="e2">Pasante de Soporte Técnico. Incidencias de hardware y software, y tickets en Help Desk según SLA.</span></li>
+    <li><b>Infocentro Popular</b><span data-i18n="e3">Servicio al cliente y soporte digital. Orientación a usuarios en las plataformas del banco.</span></li>
+    <li><b>UTESA</b><span data-i18n="e4">Ingeniería en Sistemas de Computación (estudiante de término).</span></li>
+    <li><b>ITLA e INFOTEP</b><span data-i18n="e5">Cursos de Angular, JavaScript y bases de datos.</span></li>
+  </ol>
+</section>
+
+<section id="contacto" class="wrap block">
+  <h2 data-i18n="contact_title">Contacto</h2>
+  <p class="lead" data-i18n="contact_text">¿Tienes una vacante o un proyecto? Escríbeme y respondo en menos de un día.</p>
+  <div class="actions">
+    <a class="btn primary" href="mailto:Migue0837@icloud.com">Migue0837@icloud.com</a>
+    <a class="btn" href="https://wa.me/18099734499" target="_blank" rel="noopener noreferrer">WhatsApp</a>
+    <a class="btn" href="https://linkedin.com/in/miguel1452" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+  </div>
+</section>
+</main>
+
+<footer class="wrap foot">
+  <p>&copy; <span id="year">2026</span> Miguel Laurencio · <span data-i18n="loc">Santo Domingo, República Dominicana</span></p>
+</footer>
+<script src="script.js"></script>
+</body>
+</html>

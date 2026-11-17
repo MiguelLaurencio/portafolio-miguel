@@ -1,130 +1,639 @@
-%PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%PDF-1.3
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Count 1
+/Kids [ 3 0 R ]
+/Type /Pages
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R ]
+/Contents 16 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 12 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
 >>
 endobj
 4 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (mailto:migue0837@icloud.com)
->> /Border [ 0 0 0 ] /Rect [ 197.4856 751.8098 287.71 761.8898 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (mailto\072migue0837\100icloud\056com)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 197.4856 751.8098 287.71 761.8898 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 5 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://linkedin.com/in/miguel1452)
->> /Border [ 0 0 0 ] /Rect [ 85.6732 740.6098 186.9772 750.6898 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057linkedin\056com\057in\057miguel1452)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 85.6732 740.6098 186.9772 750.6898 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 6 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/MiguelLaurencio)
->> /Border [ 0 0 0 ] /Rect [ 229.4476 740.6098 334.4896 750.6898 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057MiguelLaurencio)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 229.4476 740.6098 334.4896 750.6898 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 7 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://miguel-laurencio.netlify.app)
->> /Border [ 0 0 0 ] /Rect [ 388.1656 740.6098 490.402 750.6898 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057porftalio\056netlify\056app)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 388.1656 740.6098 465 750.6898 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 8 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/MiguelLaurencio/RickandMorty)
->> /Border [ 0 0 0 ] /Rect [ 163.531 613.5898 193.528 624.3898 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057MiguelLaurencio\057RickandMorty)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 163.531 613.5898 193.528 624.3898 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 9 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/MiguelLaurencio/helpdesk-tickets-demo)
->> /Border [ 0 0 0 ] /Rect [ 238.555 575.0898 268.552 585.8898 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057MiguelLaurencio\057helpdesk\055tickets\055demo)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 238.555 575.0898 268.552 585.8898 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 10 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/MiguelLaurencio/pokedexApi)
->> /Border [ 0 0 0 ] /Rect [ 97.021 548.1898 127.018 558.9898 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057MiguelLaurencio\057pokedexApi)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 97.021 548.1898 127.018 558.9898 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 11 0 obj
 <<
-/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R ] /Contents 15 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 14 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 3536
 >>
+stream
+Gb!;fa`?-,'#"/ml:B7J0Qqt&Q_>kNAd>_GUcYFuGUWY^G0(kaNC@`.bfA&Q_Eq-I@C7\*To_ZO.:hSaI(>n$B&^kZJ"nl2YNG35\]$+hc'QXp%@>>;Ccm4@a"sd1de-`S"@a4<6JR,*L1OS\5@B65=AId._[/]bnQ<5GL=NC!!=kU&Z+/%pM\`epd_1R\lZ_A<)d^7uhs'Xdc1l<9\RM>7bPBEXAiP._k'(Y@&!Gm'ILbK/h0h:SN6m>"Si\WCaC4%Zi$16u,A8@-9Z,883a.hh?Bh_UBd$S0fR2Y&<jn<n@NoBIF<sg61*#pG*LOs]&8RlDQg@E,4Ng]en5s8g4B#ta@[tI)QSOgUldijd20aAg1C_*!mXYQcBjb(u9lcFE+X+7(/JaXj#,03YRq+&#Ru;qV>,kR#9?T^gfD"sj5:s>-L#ue5S.,P_L$K3QN9SN3p&D_GoL:=R`3EnG&NnkY9H`:t"5aNT&SOF#Lp^KQ_@3!n5;Gi1)&n]AfCtf$]L.d)[kcs*>WBH]*YE#h0GQZJ5]NXQPlP?CG&u4@M)-j@VmQ>#VXHr93@<U\XHi!RAP-!L.FXX;HAUa0p6XFu[4L1!\"=hh8f#1.[p#.,/]j6DR7JR%^-nK,Pne\G')C5[Pe9O*6&\bWM-Op-^=dV'm-IT)AbbTo:B,?tb\g`O9D.+Vk*_6<#G-u0$(Dr<g2]B0*Gs67AL2heQ*/.dkE@@,^:?9HcR)_[_eH#XQAnDA:\Pd@_V0+*j4ONB'7,bXrB#?$T!c?(8[&`uEX*:0lPe;MlUBrjAhQiq**?g'0-;6uDm:NoHok':O\4k>7<0s`@QgWq_fSm*4R9?LFsCTr-9"AcrPJ#KoD-Z/@`l,q1n,@EnlC`Q9p3ON4kK?Wd3OCfQ95d?q]KcZ-M!-gF*Z+'5!;"]f8:$@-TSdVcfS>2jEStP@[jG5[h'0dT\u7!>.CuaEC+M2"DRaL;r/joYdfk/$;F\JA]3/+._'IHQQ$.;'kk/?)8G9W8fM1j$5KU0XXY8UdrLFjmKF1E9UKdBbL;9rg'PsQ##SHk3D*kYZmL_J'LeHb)5hg*T#d;>H3K*AF#*9O'cB3>=D"AJJUG8a%fJ*2!n*6C?:&k$)sgRm7gd7dc6-RJ<HmS9YtB"5/lngm=G2G1j&k:9SAaS.]B9JQK<_Y\pnO&m>4k.P?JOOUFN'7.*;/aGO4p)(ho;GeeVp'8.>FVVfi;Z:j4f37ep,?I4^\CkT;_D/Q(Ft/[Qge`9ElZ#jZp#pJR4NB#G9.h2_o^*3+0E"C0NUqEs'o[`YQ!'I$3HhO>pr8a/cVWC<JIb\6.+14J%B3ee-u[*A(:AY!i].-=e"Hj?,0_m77>rqEYkS#kdK;YHi['2kmuF\@!(DmDk$-iP;[XPo+[MEj%]ZVTZU[.gWKnGin%")63*hkQ*===fhc'd6ss@Z*VGD7k#X&,I1RNr(^2oI(O>!49)&i1%2HF9Ss6(Z(\tW$a/M)N(LjD\D8AkcjNMR$KN_*2FST<?Lq.OBmL<r>d3V1%jDp+UDC)#cn-cL#`dPVLo6HSZD:)8KlEM:X)l3L<8:%L?Eg'=^IQAX&]k7<pqBP7U/4:tCb2d\T$EE'.T,7kA.\QsiS(G],)@ZE^-qC+"6\V5cG8se_`f,$H_Po<\2dC]B\;rp<!(qZ7!7diI"hEN>*%?YVupO^_\jcO?+atc#:WP,mTWUj/i*2ZZKA?H[5p-fV%'TaeM_OI8=&#La\`juI:MbP?2Rm>-Ttu0k7?gpTkt2B6!.XNfNgRX/NLnQ[IqAdSM'8RHeJ0aFl?2'eQ.Ca:1)8BD0`er^XoWF$a[.sjMkjD;'(q9kA780\l@aOoh*DSdOK)2?Z]'W)CZ+;gH^%>mFr9i@d_&3-AC*o#^V1/5QT,hG%EfO!QV!skh^H4%T>1daQRFq+hZ-$[`3m5R`t`T,1H85A(XLdg8=8"Hp5/sT97m5ruKC5>1YjGYq&@NjStjG5VkRPpSo;-=5Bfd3rW#&'LGq"\Il*J,&rGP$Y>Hn<3m?_UV05YNF"C*Uihlj;G4W&.$@DNEU'r.I\?/[q2&#pQKb.LS`-R5XD/N-)8ll26Vi_a$]i^>T69Igi5mDS:f'6u'!^G\4R]+AR,(c2li%T0Zt0B==^51K1l7om>U&MiVL.efj_O7j18RhLeTZP#CV*RNUe2O)Q:Z@'R8]t$Z9%?&(W(EV3$_mN>+[(qGXP#4R2#HhjekpQ.-AYJ<3i9P->6rt?8'It!SnSPhkj<N>+Bc\o4I&?X(NXJFsb'A4U8fdMgY'mgXXTCiH^!h@lOE5T,h1ja_01]G6pK7Uc=*IH$8E983)l]Pq"b&Ufe/^Y*+-o;4P_;NfeL4<Q3/M4GuFsg;)g\=r-`B71,P'+no']>G+KSQC>E(hrjZ[lVrg2T[VYqrN.RH^DA.jkl2(R8(<s#Bid^qRVFqVpfTK#j:klb5Xs*\Y)L^9&NPgQmg4jY"a'-::LbnS&4"s`Hs<=0?g-(,#(Q(XcWO5M2b>mVUWTkEJmhW9/?T9J;VkK7dS+3GOGErQS^l_F2[Y-/IESf#GWQP&S/]1g,Y=!goV=+RB_pP`bnE!-FFj`i%=aqjPq71Nm3ZG2!L@JhI=-.:E_IQ;79p-WF]"LcL-J%g2b`,6I7K(<X%]Cq%[Vr<p1@bD[*\eNKJZW2\,m,EeBH,5Cl,J)N`'u7hg%VD=J*)NjnC0fFqZ[%/b?PXbP/'K;pj)qK=YR9COaM$?TVZ'7)(M@Ssqh*B7h;?TA?aiPu>Djbc%Bj7$O]`Lo@j1@9&!SR9Ut)o-S7'qDSqig4J&H<*Ko4[8!;<;Y<B$oS77R4L5!0XF4kJ62u<*DDW>-(67ceZJX=1e]gP['m5OJN@lTR@4/d.If$1Q_asEH.t7aF5P>hfeQQT^4,9^"hRaJI,g1<V0]2U-SZ[dX:kDM]GrHhkOBj=k55d*Sf*V+>$Jn_ZNR$0oQ23g*%SV+?fT_Gp?E1HjG]7pE&)5t!qk>sIl7J+\!EPZ^VQg%r:JLN/'Tc&Odh]2c($rH5SQtQAUphphZaWl(>/f_X4'r"B42;1\>U,A2bomom:E"F$Of)pEg.aAH2g,7X%daK%mZQ%G)4n4aUP;Y?>-@0b/O`uO"rK#>YNFm2#0Decbts>O/"UP.5,20S>Jb!'Bg^(P5=VdZkjXa1N3%Gd^7=oS$su`+PI'6$Gd^-61Lu$`e]%3+Xp:\lYG5sM(OQtOLMEG_L;Vo$,DCA@S2E=Ag0,2>E`\P,([*fFgU[fl[nc#]]9'mE(D=Edo(o_#`&ZI@d^nE:7['-KmbX[Lfq,RVm6P2/#bP3R*=;[f4L[K;a,]B7DHuE>gZUj`7]`P$d;-g9n[s?^=3I=>]a:UCY9bT^IH"Ol8\O98WI/]ipZ7d*eTR<KDn(sectq\Hq`E3*b9jJnl_F3L"66%(9+`VLH<^Yc><AN*8?2Z5;/I)C$*3>.)R\3^W?%r&&G>tjQk>?qqUt9)M(?Uql:j^A/R*POcC02>K.3SO/"]P5DA0;,B07:sp?_fE2%is~>
+endstream
 endobj
 12 0 obj
 <<
-/PageMode /UseNone /Pages 14 0 R /Type /Catalog
+/F1 13 0 R
+/F2 14 0 R
 >>
 endobj
 13 0 obj
 <<
-/Author (Miguel Angel Laurencio Contreras) /CreationDate (D:20261022230103+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261022230103+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (Miguel Angel Laurencio Contreras - CV) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 14 0 obj
 <<
-/Count 1 /Kids [ 11 0 R ] /Type /Pages
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 15 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 3536
+/Author (Miguel Angel Laurencio Contreras)
+/CreationDate (D\07220261022230103\05300\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220261022230103\05300\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (\050unspecified\051)
+/Title (Miguel Angel Laurencio Contreras \055 CV)
+/Trapped /False
+>>
+endobj
+16 0 obj
+<<
+/Length 11353
 >>
 stream
-Gb!;fa`?-,'#"/ml:B7J0Qqt&Q_>kNAd>_GUcYFuGUWY^G0(kaNC@`.bfA&Q_Eq-I@C7\*To_ZO.:hSaI(>n$B&^kZJ"nl2YNG35\]$+hc'QXp%@>>;Ccm4@a"sd1de-`S"@a4<6JR,*L1OS\5@B65=AId._[/]bnQ<5GL=NC!!=kU&Z+/%pM\`epd_1R\lZ_A<)d^7uhs'Xdc1l<9\RM>7bPBEXAiP._k'(Y@&!Gm'ILbK/h0h:SN6m>"Si\WCaC4%Zi$16u,A8@-9Z,883a.hh?Bh_UBd$S0fR2Y&<jn<n@NoBIF<sg61*#pG*LOs]&8RlDQg@E,4Ng]en5s8g4B#ta@[tI)QSOgUldijd20aAg1C_*!mXYQcBjb(u9lcFE+X+7(/JaXj#,03YRq+&#Ru;qV>,kR#9?T^gfD"sj5:s>-L#ue5S.,P_L$K3QN9SN3p&D_GoL:=R`3EnG&NnkY9H`:t"5aNT&SOF#Lp^KQ_@3!n5;Gi1)&n]AfCtf$]L.d)[kcs*>WBH]*YE#h0GQZJ5]NXQPlP?CG&u4@M)-j@VmQ>#VXHr93@<U\XHi!RAP-!L.FXX;HAUa0p6XFu[4L1!\"=hh8f#1.[p#.,/]j6DR7JR%^-nK,Pne\G')C5[Pe9O*6&\bWM-Op-^=dV'm-IT)AbbTo:B,?tb\g`O9D.+Vk*_6<#G-u0$(Dr<g2]B0*Gs67AL2heQ*/.dkE@@,^:?9HcR)_[_eH#XQAnDA:\Pd@_V0+*j4ONB'7,bXrB#?$T!c?(8[&`uEX*:0lPe;MlUBrjAhQiq**?g'0-;6uDm:NoHok':O\4k>7<0s`@QgWq_fSm*4R9?LFsCTr-9"AcrPJ#KoD-Z/@`l,q1n,@EnlC`Q9p3ON4kK?Wd3OCfQ95d?q]KcZ-M!-gF*Z+'5!;"]f8:$@-TSdVcfS>2jEStP@[jG5[h'0dT\u7!>.CuaEC+M2"DRaL;r/joYdfk/$;F\JA]3/+._'IHQQ$.;'kk/?)8G9W8fM1j$5KU0XXY8UdrLFjmKF1E9UKdBbL;9rg'PsQ##SHk3D*kYZmL_J'LeHb)5hg*T#d;>H3K*AF#*9O'cB3>=D"AJJUG8a%fJ*2!n*6C?:&k$)sgRm7gd7dc6-RJ<HmS9YtB"5/lngm=G2G1j&k:9SAaS.]B9JQK<_Y\pnO&m>4k.P?JOOUFN'7.*;/aGO4p)(ho;GeeVp'8.>FVVfi;Z:j4f37ep,?I4^\CkT;_D/Q(Ft/[Qge`9ElZ#jZp#pJR4NB#G9.h2_o^*3+0E"C0NUqEs'o[`YQ!'I$3HhO>pr8a/cVWC<JIb\6.+14J%B3ee-u[*A(:AY!i].-=e"Hj?,0_m77>rqEYkS#kdK;YHi['2kmuF\@!(DmDk$-iP;[XPo+[MEj%]ZVTZU[.gWKnGin%")63*hkQ*===fhc'd6ss@Z*VGD7k#X&,I1RNr(^2oI(O>!49)&i1%2HF9Ss6(Z(\tW$a/M)N(LjD\D8AkcjNMR$KN_*2FST<?Lq.OBmL<r>d3V1%jDp+UDC)#cn-cL#`dPVLo6HSZD:)8KlEM:X)l3L<8:%L?Eg'=^IQAX&]k7<pqBP7U/4:tCb2d\T$EE'.T,7kA.\QsiS(G],)@ZE^-qC+"6\V5cG8se_`f,$H_Po<\2dC]B\;rp<!(qZ7!7diI"hEN>*%?YVupO^_\jcO?+atc#:WP,mTWUj/i*2ZZKA?H[5p-fV%'TaeM_OI8=&#La\`juI:MbP?2Rm>-Ttu0k7?gpTkt2B6!.XNfNgRX/NLnQ[IqAdSM'8RHeJ0aFl?2'eQ.Ca:1)8BD0`er^XoWF$a[.sjMkjD;'(q9kA780\l@aOoh*DSdOK)2?Z]'W)CZ+;gH^%>mFr9i@d_&3-AC*o#^V1/5QT,hG%EfO!QV!skh^H4%T>1daQRFq+hZ-$[`3m5R`t`T,1H85A(XLdg8=8"Hp5/sT97m5ruKC5>1YjGYq&@NjStjG5VkRPpSo;-=5Bfd3rW#&'LGq"\Il*J,&rGP$Y>Hn<3m?_UV05YNF"C*Uihlj;G4W&.$@DNEU'r.I\?/[q2&#pQKb.LS`-R5XD/N-)8ll26Vi_a$]i^>T69Igi5mDS:f'6u'!^G\4R]+AR,(c2li%T0Zt0B==^51K1l7om>U&MiVL.efj_O7j18RhLeTZP#CV*RNUe2O)Q:Z@'R8]t$Z9%?&(W(EV3$_mN>+[(qGXP#4R2#HhjekpQ.-AYJ<3i9P->6rt?8'It!SnSPhkj<N>+Bc\o4I&?X(NXJFsb'A4U8fdMgY'mgXXTCiH^!h@lOE5T,h1ja_01]G6pK7Uc=*IH$8E983)l]Pq"b&Ufe/^Y*+-o;4P_;NfeL4<Q3/M4GuFsg;)g\=r-`B71,P'+no']>G+KSQC>E(hrjZ[lVrg2T[VYqrN.RH^DA.jkl2(R8(<s#Bid^qRVFqVpfTK#j:klb5Xs*\Y)L^9&NPgQmg4jY"a'-::LbnS&4"s`Hs<=0?g-(,#(Q(XcWO5M2b>mVUWTkEJmhW9/?T9J;VkK7dS+3GOGErQS^l_F2[Y-/IESf#GWQP&S/]1g,Y=!goV=+RB_pP`bnE!-FFj`i%=aqjPq71Nm3ZG2!L@JhI=-.:E_IQ;79p-WF]"LcL-J%g2b`,6I7K(<X%]Cq%[Vr<p1@bD[*\eNKJZW2\,m,EeBH,5Cl,J)N`'u7hg%VD=J*)NjnC0fFqZ[%/b?PXbP/'K;pj)qK=YR9COaM$?TVZ'7)(M@Ssqh*B7h;?TA?aiPu>Djbc%Bj7$O]`Lo@j1@9&!SR9Ut)o-S7'qDSqig4J&H<*Ko4[8!;<;Y<B$oS77R4L5!0XF4kJ62u<*DDW>-(67ceZJX=1e]gP['m5OJN@lTR@4/d.If$1Q_asEH.t7aF5P>hfeQQT^4,9^"hRaJI,g1<V0]2U-SZ[dX:kDM]GrHhkOBj=k55d*Sf*V+>$Jn_ZNR$0oQ23g*%SV+?fT_Gp?E1HjG]7pE&)5t!qk>sIl7J+\!EPZ^VQg%r:JLN/'Tc&Odh]2c($rH5SQtQAUphphZaWl(>/f_X4'r"B42;1\>U,A2bomom:E"F$Of)pEg.aAH2g,7X%daK%mZQ%G)4n4aUP;Y?>-@0b/O`uO"rK#>YNFm2#0Decbts>O/"UP.5,20S>Jb!'Bg^(P5=VdZkjXa1N3%Gd^7=oS$su`+PI'6$Gd^-61Lu$`e]%3+Xp:\lYG5sM(OQtOLMEG_L;Vo$,DCA@S2E=Ag0,2>E`\P,([*fFgU[fl[nc#]]9'mE(D=Edo(o_#`&ZI@d^nE:7['-KmbX[Lfq,RVm6P2/#bP3R*=;[f4L[K;a,]B7DHuE>gZUj`7]`P$d;-g9n[s?^=3I=>]a:UCY9bT^IH"Ol8\O98WI/]ipZ7d*eTR<KDn(sectq\Hq`E3*b9jJnl_F3L"66%(9+`VLH<^Yc><AN*8?2Z5;/I)C$*3>.)R\3^W?%r&&G>tjQk>?qqUt9)M(?Uql:j^A/R*POcC02>K.3SO/"]P5DA0;,B07:sp?_fE2%is~>endstream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 46 777.8898 cm
+q
+.121569 .231373 .388235 rg
+BT 1 0 0 1 0 3 Tm /F2 21 Tf 24 TL (MIGUEL ANGEL LAURENCIO CONTRERAS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46 764.8898 cm
+q
+.215686 .254902 .317647 rg
+BT 1 0 0 1 0 2.7 Tm /F2 10.3 Tf 13 TL (Estudiante de T\351rmino en Ingenier\355a en Sistemas / Desarrollador Front-End Junior) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46 761.8898 cm
+Q
+q
+1 0 0 1 46 750.6898 cm
+q
+BT 1 0 0 1 0 2.8 Tm 11.2 TL /F2 8.4 Tf .121569 .160784 .215686 rg (Tel\351fono:) Tj /F1 8.4 Tf ( +1 \(809\) 973-4499  ) Tj (  ) Tj /F2 8.4 Tf (Correo:) Tj /F1 8.4 Tf ( ) Tj .164706 .419608 .74902 rg (migue0837@icloud.com) Tj .121569 .160784 .215686 rg (  ) Tj (  ) Tj /F2 8.4 Tf (Ubicaci\363n:) Tj /F1 8.4 Tf ( Santo Domingo Oeste, RD) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46 739.4898 cm
+q
+BT 1 0 0 1 0 2.8 Tm 11.2 TL /F2 8.4 Tf .121569 .160784 .215686 rg (LinkedIn:) Tj /F1 8.4 Tf ( ) Tj .164706 .419608 .74902 rg (linkedin.com/in/miguel1452) Tj .121569 .160784 .215686 rg (  ) Tj (  ) Tj /F2 8.4 Tf (GitHub:) Tj /F1 8.4 Tf ( ) Tj .164706 .419608 .74902 rg (github.com/MiguelLaurencio) Tj .121569 .160784 .215686 rg (  ) Tj (  ) Tj /F2 8.4 Tf (Portafolio:) Tj /F1 8.4 Tf ( ) Tj .164706 .419608 .74902 rg (porftalio.netlify.app) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46 733.8898 cm
+q
+1.6 w
+1 J
+.121569 .231373 .388235 RG
+n 0 0 m 503.2756 0 l S
+Q
+Q
+q
+1 0 0 1 46 713.8898 cm
+q
+.121569 .231373 .388235 rg
+BT 1 0 0 1 0 2.4 Tm /F2 10.6 Tf 13 TL (PERFIL PROFESIONAL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46 712.3898 cm
+q
+.5 w
+1 J
+.819608 .835294 .858824 RG
+n 0 0 m 503.2756 0 l S
+Q
+Q
+q
+1 0 0 1 46 651.3898 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 0 49.2 Tm /F1 8.8 Tf 11.6 TL -0.091076 Tw (Estudiante de t\351rmino de Ingenier\355a en Sistemas con conocimientos en Angular, TypeScript, JavaScript, HTML y CSS. Desarrollo) Tj T* 0 Tw .054466 Tw (interfaces web responsivas, consumo APIs REST y escribo pruebas unitarias en mis proyectos, publicados en GitHub y en l\355nea.) Tj T* 0 Tw .487217 Tw (Trabajo con metodolog\355a Scrum y vengo de la banca y el soporte t\351cnico, con atenci\363n a la calidad de los datos y trato directo) Tj T* 0 Tw 1.628688 Tw (con usuarios. Busco un puesto de Desarrollador Front-End Junior donde seguir creciendo y aportar valor en un equipo de) Tj T* 0 Tw (desarrollo.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46 631.3898 cm
+q
+.121569 .231373 .388235 rg
+BT 1 0 0 1 0 2.4 Tm /F2 10.6 Tf 13 TL (PROYECTOS DESTACADOS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46 629.8898 cm
+q
+.5 w
+1 J
+.819608 .835294 .858824 RG
+n 0 0 m 503.2756 0 l S
+Q
+Q
+q
+1 0 0 1 46 612.3898 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 .5 cm
+q
+BT 1 0 0 1 0 2.5 Tm 11.5 TL /F2 9 Tf .121569 .160784 .215686 rg (Rick and Morty Explorer \227 ) Tj .164706 .419608 .74902 rg (GitHub) Tj T* ET
+Q
+Q
+q
+1 0 0 1 353.2756 1 cm
+q
+.419608 .447059 .501961 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL 40.1692 0 Td (JavaScript \267 REST API \267 Vitest) Tj T* -40.1692 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 46 589.1898 cm
+q
+BT 1 0 0 1 2 14.4 Tm /F1 10 Tf 12 TL .121569 .160784 .215686 rg (\177) Tj ET
+.121569 .160784 .215686 rg
+BT 1 0 0 1 11 14.4 Tm /F1 8.8 Tf 11.6 TL .5 0 Td .880777 Tw (Explorador de personajes con b\372squeda, filtros por estado y especie aplicados en la API, paginaci\363n y manejo de errores;) Tj T* 0 Tw -0.5 0 Td (l\363gica separada en funciones puras con pruebas unitarias.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46 573.8898 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 .5 cm
+q
+BT 1 0 0 1 0 2.5 Tm 11.5 TL /F2 9 Tf .121569 .160784 .215686 rg (HelpDesk, prototipo de sistema de tickets \227 ) Tj .164706 .419608 .74902 rg (GitHub) Tj T* ET
+Q
+Q
+q
+1 0 0 1 353.2756 1 cm
+q
+.419608 .447059 .501961 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL 63.4244 0 Td (JavaScript \267 HTML/CSS) Tj T* -63.4244 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 46 562.2898 cm
+q
+BT 1 0 0 1 2 2.8 Tm /F1 10 Tf 12 TL .121569 .160784 .215686 rg (\177) Tj ET
+.121569 .160784 .215686 rg
+BT 1 0 0 1 11 2.8 Tm /F1 8.8 Tf 11.6 TL .5 0 Td (Roles de usuario y agente, SLA por prioridad, filtros y panel de m\351tricas. Versi\363n en Angular y TypeScript en desarrollo.) Tj T* -0.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 46 546.9898 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 .5 cm
+q
+BT 1 0 0 1 0 2.5 Tm 11.5 TL /F2 9 Tf .121569 .160784 .215686 rg (Pok\351dex \227 ) Tj .164706 .419608 .74902 rg (GitHub) Tj T* ET
+Q
+Q
+q
+1 0 0 1 353.2756 1 cm
+q
+.419608 .447059 .501961 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL 82.9978 0 Td (Angular \267 Pok\351API) Tj T* -82.9978 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 46 535.3898 cm
+q
+BT 1 0 0 1 2 2.8 Tm /F1 10 Tf 12 TL .121569 .160784 .215686 rg (\177) Tj ET
+.121569 .160784 .215686 rg
+BT 1 0 0 1 11 2.8 Tm /F1 8.8 Tf 11.6 TL .5 0 Td (Consumo de la Pok\351API con Angular, gesti\363n de rutas y componentes modulares.) Tj T* -0.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 46 515.3898 cm
+q
+.121569 .231373 .388235 rg
+BT 1 0 0 1 0 2.4 Tm /F2 10.6 Tf 13 TL (EXPERIENCIA PROFESIONAL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46 513.8898 cm
+q
+.5 w
+1 J
+.819608 .835294 .858824 RG
+n 0 0 m 503.2756 0 l S
+Q
+Q
+q
+1 0 0 1 46 496.3898 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 .5 cm
+q
+BT 1 0 0 1 0 2.5 Tm 11.5 TL /F2 9 Tf .164706 .419608 .74902 rg (Banco Popular Dominicano) Tj .121569 .160784 .215686 rg ( \227 Analista II de Formalizaci\363n) Tj T* ET
+Q
+Q
+q
+1 0 0 1 353.2756 1 cm
+q
+.419608 .447059 .501961 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL 26.6228 0 Td (2025 \226 Presente | Santo Domingo) Tj T* -26.6228 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 46 473.1898 cm
+q
+BT 1 0 0 1 2 14.4 Tm /F1 10 Tf 12 TL .121569 .160784 .215686 rg (\177) Tj ET
+.121569 .160784 .215686 rg
+BT 1 0 0 1 11 14.4 Tm /F1 8.8 Tf 11.6 TL .5 0 Td .050656 Tw (Validar y controlar expedientes financieros mediante plataformas internas, monitoreando procesos y asegurando la calidad de) Tj T* 0 Tw -0.5 0 Td (datos de registros cr\355ticos bajo las normativas legales vigentes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46 449.1898 cm
+q
+BT 1 0 0 1 2 14.4 Tm /F1 10 Tf 12 TL .121569 .160784 .215686 rg (\177) Tj ET
+.121569 .160784 .215686 rg
+BT 1 0 0 1 11 14.4 Tm /F1 8.8 Tf 11.6 TL .5 0 Td 1.728942 Tw (Identificar oportunamente inconsistencias de datos en los flujos de informaci\363n, minimizando de forma proactiva riesgos) Tj T* 0 Tw -0.5 0 Td (operativos para la instituci\363n.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46 433.8898 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 .5 cm
+q
+BT 1 0 0 1 0 2.5 Tm 11.5 TL /F2 9 Tf .164706 .419608 .74902 rg (Banco Popular Dominicano) Tj .121569 .160784 .215686 rg ( \227 Pasante de Soporte T\351cnico \(3 meses\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 353.2756 1 cm
+q
+.419608 .447059 .501961 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL 68.5576 0 Td (2026 | Santo Domingo) Tj T* -68.5576 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 46 410.6898 cm
+q
+BT 1 0 0 1 2 14.4 Tm /F1 10 Tf 12 TL .121569 .160784 .215686 rg (\177) Tj ET
+.121569 .160784 .215686 rg
+BT 1 0 0 1 11 14.4 Tm /F1 8.8 Tf 11.6 TL .5 0 Td 3.615285 Tw (Diagnosticar y resolver incidencias t\351cnicas de hardware y software, garantizando la continuidad operativa de los) Tj T* 0 Tw -0.5 0 Td (colaboradores de la instituci\363n.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46 386.6898 cm
+q
+BT 1 0 0 1 2 14.4 Tm /F1 10 Tf 12 TL .121569 .160784 .215686 rg (\177) Tj ET
+.121569 .160784 .215686 rg
+BT 1 0 0 1 11 14.4 Tm /F1 8.8 Tf 11.6 TL .5 0 Td 1.508022 Tw (Gestionar y escalar solicitudes de soporte a trav\351s de herramientas de mesa de ayuda \(Help Desk\) cumpliendo con los) Tj T* 0 Tw -0.5 0 Td (Acuerdos de Nivel de Servicio \(SLA\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46 371.3898 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 .5 cm
+q
+BT 1 0 0 1 0 2.5 Tm 11.5 TL /F2 9 Tf .164706 .419608 .74902 rg (Infocentro Popular) Tj .121569 .160784 .215686 rg ( \227 Especialista en Servicio al Cliente y Soporte Digital) Tj T* ET
+Q
+Q
+q
+1 0 0 1 353.2756 1 cm
+q
+.419608 .447059 .501961 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL 41.2024 0 Td (2023 \226 2024 | Santo Domingo) Tj T* -41.2024 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 46 348.1898 cm
+q
+BT 1 0 0 1 2 14.4 Tm /F1 10 Tf 12 TL .121569 .160784 .215686 rg (\177) Tj ET
+.121569 .160784 .215686 rg
+BT 1 0 0 1 11 14.4 Tm /F1 8.8 Tf 11.6 TL .5 0 Td .063263 Tw (Brindar soporte t\351cnico directo y orientaci\363n digital a usuarios, facilitando el acceso, la navegaci\363n y el uso de las plataformas) Tj T* 0 Tw -0.5 0 Td (financieras y servicios en l\355nea del banco.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46 335.7898 cm
+q
+BT 1 0 0 1 2 2.8 Tm /F1 10 Tf 12 TL .121569 .160784 .215686 rg (\177) Tj ET
+.121569 .160784 .215686 rg
+BT 1 0 0 1 11 2.8 Tm /F1 8.8 Tf 11.6 TL .5 0 Td (Gestionar los recursos tecnol\363gicos del centro, impulsando la adopci\363n digital y mejorando la experiencia del usuario final.) Tj T* -0.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 46 315.7898 cm
+q
+.121569 .231373 .388235 rg
+BT 1 0 0 1 0 2.4 Tm /F2 10.6 Tf 13 TL (EDUCACI\323N Y FORMACI\323N T\311CNICA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46 314.2898 cm
+q
+.5 w
+1 J
+.819608 .835294 .858824 RG
+n 0 0 m 503.2756 0 l S
+Q
+Q
+q
+1 0 0 1 46 285.2898 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 .5 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 0 14 Tm /F2 9 Tf 11.5 TL (Universidad Tecnol\363gica de Santiago \(UTESA\) \227 Ingenier\355a en Sistemas de) Tj T* (Computaci\363n) Tj T* ET
+Q
+Q
+q
+1 0 0 1 353.2756 12.5 cm
+q
+.419608 .447059 .501961 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL 70.2386 0 Td (Estudiante de t\351rmino) Tj T* -70.2386 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 46 259.2898 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 .5 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 0 14 Tm /F2 9 Tf 11.5 TL (Instituto Tecnol\363gico de Las Am\351ricas \(ITLA\) \227 Cursos de Angular, JavaScript y) Tj T* (SQL Server) Tj T* ET
+Q
+Q
+q
+1 0 0 1 353.2756 12.5 cm
+q
+.419608 .447059 .501961 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL 27.41 0 Td (Certificado \267 SQL Server en curso) Tj T* -27.41 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 46 233.2898 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 .5 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 0 14 Tm /F2 9 Tf 11.5 TL (Instituto Nacional de Formaci\363n T\351cnico Profesional \(INFOTEP\) \227 Manejo de) Tj T* (Base de Datos) Tj T* ET
+Q
+Q
+q
+1 0 0 1 353.2756 12.5 cm
+q
+.419608 .447059 .501961 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL 110.8122 0 Td (Certificado) Tj T* -110.8122 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 46 213.2898 cm
+q
+.121569 .231373 .388235 rg
+BT 1 0 0 1 0 2.4 Tm /F2 10.6 Tf 13 TL (HABILIDADES T\311CNICAS Y COMPETENCIAS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46 211.7898 cm
+q
+.5 w
+1 J
+.819608 .835294 .858824 RG
+n 0 0 m 503.2756 0 l S
+Q
+Q
+q
+1 0 0 1 46 156.3898 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 27.7 cm
+q
+BT 1 0 0 1 0 14.4 Tm 11.6 TL /F2 8.8 Tf .121569 .160784 .215686 rg (Lenguajes y tecnolog\355as:) Tj /F1 8.8 Tf ( HTML5, CSS3, JavaScript,) Tj T* (TypeScript, Angular, jQuery) Tj T* ET
+Q
+Q
+q
+1 0 0 1 251.6378 27.7 cm
+q
+BT 1 0 0 1 0 14.4 Tm 11.6 TL /F2 8.8 Tf .121569 .160784 .215686 rg (Datos, calidad y herramientas:) Tj /F1 8.8 Tf ( APIs REST, SQL, SQL) Tj T* (Server \(en curso\), pruebas unitarias \(Vitest\), Git y GitHub) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 1.5 cm
+q
+BT 1 0 0 1 0 14.4 Tm 11.6 TL /F2 8.8 Tf .121569 .160784 .215686 rg (Metodolog\355as:) Tj /F1 8.8 Tf ( Scrum \(Agile\) \267 ) Tj /F2 8.8 Tf (Idiomas:) Tj /F1 8.8 Tf ( Espa\361ol \(nativo\),) Tj T* (Ingl\351s \(intermedio\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 251.6378 1.5 cm
+q
+BT 1 0 0 1 0 14.4 Tm 11.6 TL /F2 8.8 Tf .121569 .160784 .215686 rg (Competencias:) Tj /F1 8.8 Tf ( Soporte t\351cnico, calidad de datos, trabajo en) Tj T* (equipo, resoluci\363n de problemas) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+ 
+
+endstream
 endobj
 xref
-0 16
+0 17
 0000000000 65535 f 
-0000000061 00000 n 
-0000000102 00000 n 
-0000000209 00000 n 
-0000000321 00000 n 
-0000000498 00000 n 
-0000000683 00000 n 
-0000000869 00000 n 
-0000001056 00000 n 
-0000001253 00000 n 
-0000001459 00000 n 
-0000001654 00000 n 
-0000001915 00000 n 
-0000001985 00000 n 
-0000002309 00000 n 
-0000002370 00000 n 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000142 00000 n 
+0000000398 00000 n 
+0000000584 00000 n 
+0000000787 00000 n 
+0000000988 00000 n 
+0000001179 00000 n 
+0000001394 00000 n 
+0000001624 00000 n 
+0000001837 00000 n 
+0000005466 00000 n 
+0000005510 00000 n 
+0000005618 00000 n 
+0000005731 00000 n 
+0000006094 00000 n 
 trailer
 <<
-/ID 
-[<53d4694f796fec0416651bace7f020e3><53d4694f796fec0416651bace7f020e3>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 13 0 R
-/Root 12 0 R
-/Size 16
+/Size 17
+/Root 1 0 R
+/Info 15 0 R
+/ID [ <53d4694f796fec0416651bace7f020e3> <53d4694f796fec0416651bace7f020e3> ]
 >>
 startxref
-5998
+17501
 %%EOF
